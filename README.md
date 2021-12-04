@@ -1,6 +1,8 @@
 ### Hi there 👋😆
 
 
+![github-contribution-grid-snake](https://github.com/mozillazg/mozillazg/blob/github-contribution-grid-snake/github-contribution-grid-snake.svg)
+
 <!--
 **mozillazg/mozillazg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
