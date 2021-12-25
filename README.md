@@ -25,6 +25,6 @@ Here are some ideas to get you started:
 -->
 
 
-<image width='70%' src="https://cdn.jsdelivr.net/gh/mozillazg/mozillazg@github-contribution-grid-snake/github-contribution-grid-snake.svg" /> <image width='28%' src="https://github-readme-stats.vercel.app/api?username=mozillazg&show_icons=true&include_all_commits=true" />
+<image width='68%' src="https://cdn.jsdelivr.net/gh/mozillazg/mozillazg@github-contribution-grid-snake/github-contribution-grid-snake.svg" /> <image width='30%' src="https://github-readme-stats.vercel.app/api?username=mozillazg&show_icons=true&include_all_commits=true" />
 
 
