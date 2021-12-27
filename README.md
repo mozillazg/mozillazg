@@ -24,7 +24,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-<image width='68%' src="https://cdn.jsdelivr.net/gh/mozillazg/mozillazg@github-contribution-grid-snake/github-contribution-grid-snake.svg" /> <image width='30%' src="https://github-readme-stats.vercel.app/api?username=mozillazg&show_icons=true&include_all_commits=true" />
+<a href="https://github.com/mozillazg">
+  <image width='38%' src="https://github-readme-stats.vercel.app/api?username=mozillazg&show_icons=true&include_all_commits=true&hide_border=true&hide=contribs&theme=vue" />
+</a>
+<a href="https://github.com/mozillazg">
+  <image width='60%' src="https://cdn.jsdelivr.net/gh/mozillazg/mozillazg@github-contribution-grid-snake/github-contribution-grid-snake.svg" />
+</a>
 
 
